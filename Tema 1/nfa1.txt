@@ -1,0 +1,16 @@
+5
+5
+0 1 a
+1 2 b
+2 1 a
+0 3 a
+3 4 d
+0
+4
+1 2 3 4
+5
+a
+aa
+ad
+abababababa
+abababababad
