@@ -1,0 +1,3 @@
+S a|aA|bB|ε
+A aA|aS
+B cS|ε
